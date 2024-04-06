@@ -22,8 +22,6 @@
 
 [Relative - README](README.md)
 
-[Relative - screenshot](screenshots/vscode-ui.png)
-
 1. Order 1
 2. Order 2
 
