@@ -5,8 +5,11 @@
 ### Heading 3
 
 *Italic*
+
 **Bold**
+
 ***Bold and Italic***
+
 ~~Strikethrough~~
 
 > quoted text
@@ -18,6 +21,7 @@
 [Section](#section)
 
 [Relative - README](README.md)
+
 [Relative - screenshot](screenshot/vscode-ui.png)
 
 1. Order 1
