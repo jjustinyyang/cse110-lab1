@@ -22,7 +22,7 @@
 
 [Relative - README](README.md)
 
-[Relative - screenshot](screenshot/vscode-ui.png)
+[Relative - screenshot](screenshots/vscode-ui.png)
 
 1. Order 1
 2. Order 2
@@ -30,5 +30,5 @@
 - Unorder 1
 - Unorder 2
 
-- [x] Task 1
-- [ ] Task 2
+[x] Task 1
+[ ] Task 2
