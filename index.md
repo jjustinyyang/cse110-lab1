@@ -1,32 +1,37 @@
 ![Picture](cse110.png)
 
-# Heading 1 {#section}
-## Heading 2
-### Heading 3
+# Justin's User Page {#section}
 
-*Italic*
+## Intro
 
-**Bold**
+*My name is Justin Yang.*
 
-***Bold and Italic***
+**I am a second-year computer science major at UCSD.**
 
-~~Strikethrough~~
+***Nice to meet you.***
 
-> quoted text
+~~I am not funny.~~
 
-`quoted code`
+> Fav quote: One day I'm gonna make an onion cry.
 
-[External](https://www.linkedin.com/in/-justin-yang/)
+`hello world`
 
-[Section](#section)
+[My LinkedIn](https://www.linkedin.com/in/-justin-yang/)
 
-[Relative - README](README.md)
+[Back to Intro](#section)
 
-1. Order 1
-2. Order 2
+[README File](README.md)
 
-- Unorder 1
-- Unorder 2
+## My plan to get an A in this class
 
-- [x] Task 1
-- [ ] Task 2
+1. Work hard with my team
+2. Communicate
+
+## My hobbies
+- Basketball
+- Golf
+- Mahjong
+
+## Bucket List
+- [x] Travel outside of the US
+- [ ] Skydiving
